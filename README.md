@@ -7,8 +7,8 @@ Uso del Paradigma de Diseño Orientado a Aspectos
 
 
 ### Transacciones
---- | ---
-![Captura de deposito](/SimpleBank/Consola_deposito.jpg) | ![Captura de retiro](/SimpleBank/Consola_retiro.jpg)
+| --- | --- |
+| ![Captura de deposito](/SimpleBank/Consola_deposito.jpg) | ![Captura de retiro](/SimpleBank/Consola_retiro.jpg) |
 
 ## Colaboradores
 ```
