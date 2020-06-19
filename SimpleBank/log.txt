@@ -1,0 +1,5 @@
+Registra Transaccion: transaccion--20:26:0
+Registra Transaccion: deposito, Hora: 20:42:55
+
+Registra Transaccion: retiro, Hora: 20:43:12
+
